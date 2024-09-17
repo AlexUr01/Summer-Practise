@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "brand": "LADA",
+        "model": "Granta",
+        "price": 699900,
+        "release": 2015,
+        "drive": "FWD",
+        "body": "Седан",
+        "transmission": "МКПП",
+        "engineVolume": 1.6,
+        "enginePower": 90,
+        "maxSpeed": 179,
+        "img": "https://photo.auto.ru/photo/get-autoru-vos/1987375/IC6-1KQt7bYHhBrg8DzhZ8q2pI1rPqXYxFHjFK9wqgGkIhOaQAx6389KHwRfSo_0uWhfKCj1x-enJ0qg-g9HhgTs2z2OFTcoO3fweWlJDa7dsN2Gk4JVHIFGYj2ipHrfJPnTU8DOAiIKg6uCbekq8A4BFL2sVbjNq6QVNkeT_bhO9S8/1200x900"
+    },
+    {
+        "id": "2",
+        "brand": "BMW",
+        "model": "6-Series",
+        "price": 5250000,
+        "release": 2017,
+        "drive": "4WD",
+        "body": "Кабриолет",
+        "transmission": "АКПП",
+        "engineVolume": 2979,
+        "enginePower": 320,
+        "maxSpeed": 250,
+        "img": "https://avatars.mds.yandex.net/i?id=6fc48794ccc1cb2904975becc3487ca0_l-5233158-images-thumbs&n=13"
+    },
+    {
+        "id": "3",
+        "brand": "Shkoda",
+        "model": "Yeti",
+        "price": 770000,
+        "release": 2012,
+        "drive": "FWD",
+        "body": "Внедорожник",
+        "transmission": "МКПП",
+        "engineVolume": 1390,
+        "enginePower": 122,
+        "maxSpeed": 185,
+        "img": "https://avatars.mds.yandex.net/get-autoru-vos/5859826/36b0ffcee9e9f6854d06fd13d94d1cf4/1200x900"
+    }
+]

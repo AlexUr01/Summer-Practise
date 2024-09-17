@@ -1,0 +1,14 @@
+{
+    "id": "2",
+    "brand": "BMW",
+    "model": "6-Series",
+    "price": 5250000,
+    "release": 2017,
+    "drive": "4WD",
+    "body": "Кабриолет",
+    "transmission": "АКПП",
+    "engineVolume": 2979,
+    "enginePower": 320,
+    "maxSpeed": 250,
+    "img": "https://avatars.mds.yandex.net/i?id=6fc48794ccc1cb2904975becc3487ca0_l-5233158-images-thumbs&n=13"
+}

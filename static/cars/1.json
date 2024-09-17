@@ -1,0 +1,14 @@
+{
+    "id": "1",
+    "brand": "LADA",
+    "model": "Granta",
+    "price": 699900,
+    "release": 2015,
+    "drive": "FWD",
+    "body": "Седан",
+    "transmission": "МКПП",
+    "engineVolume": 1.6,
+    "enginePower": 90,
+    "maxSpeed": 179,
+    "img": "https://photo.auto.ru/photo/get-autoru-vos/1987375/IC6-1KQt7bYHhBrg8DzhZ8q2pI1rPqXYxFHjFK9wqgGkIhOaQAx6389KHwRfSo_0uWhfKCj1x-enJ0qg-g9HhgTs2z2OFTcoO3fweWlJDa7dsN2Gk4JVHIFGYj2ipHrfJPnTU8DOAiIKg6uCbekq8A4BFL2sVbjNq6QVNkeT_bhO9S8/1200x900"
+}

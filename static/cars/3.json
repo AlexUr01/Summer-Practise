@@ -1,0 +1,14 @@
+{
+    "id": "3",
+    "brand": "Shkoda",
+    "model": "Yeti",
+    "price": 770000,
+    "release": 2012,
+    "drive": "FWD",
+    "body": "Внедорожник",
+    "transmission": "МКПП",
+    "engineVolume": 1390,
+    "enginePower": 122,
+    "maxSpeed": 185,
+    "img": "https://avatars.mds.yandex.net/get-autoru-vos/5859826/36b0ffcee9e9f6854d06fd13d94d1cf4/1200x900"
+}
